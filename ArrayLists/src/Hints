@@ -1,0 +1,22 @@
+Hint 1:
+You'll need to create a new ArrayList that will hold Strings to represent each of the items we want to put into our inventory
+
+Hint 2:
+You'll need a for loop or a for-each loop to do this
+
+Hint 3:
+When using the .Add method don't forget to call your ArrayList, and then pass the information you're adding as an argument.
+
+Hint 4:
+Which means making a new ArrayList.
+
+Hint 5:
+Should look familiar. Just adding another loop if you needed one for the backpack.
+
+Hint 6:
+Don't forget to check out the chapter for Methods and Properties of Lists. (3.4.2)
+https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/arraylist.html#arraylist-methods
+
+Hint 7:
+This is a great place for an If statement to handle searching your inventory (and backpack if you have one) and what
+will happen if you don't meet her requirements.

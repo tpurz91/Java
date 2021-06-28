@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/ArrayLists/ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment1Prep/Assignment1Prep.iml" filepath="$PROJECT_DIR$/Assignment1Prep/Assignment1Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPracticeExercises.iml" filepath="$PROJECT_DIR$/JavaPracticeExercises.iml" />
+    </modules>
+  </component>
+</project>

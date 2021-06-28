@@ -1,0 +1,6 @@
+Hint 1:
+You'll need to declare a new HashMap with the variable name "inventory" that is capable of containing a set of String types as the keys
+and Integer types as the values.
+
+Hint 2:
+You'll need a for-each loop to do this. Be sure to look at 3.6 to see an example of the syntax for this.

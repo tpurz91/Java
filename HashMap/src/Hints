@@ -1,0 +1,28 @@
+Hint 1:
+You'll need to declare a new HashMap with the variable name "inventory" that is capable of containing a set of String types as the keys
+and Integer types as the values.
+
+Hint 2:
+You'll need a for-each loop to do this. Be sure to look at 3.6 to see an example of the syntax for this.
+
+Hint 3:
+You'll need to replace the value assigned to the key of "Gold". This method isn't included in the reading, but if you
+type "inventory.re" you'll see a couple of "replace" methods. One that requires the old value to be entered, and one
+that only requires the new value to be passed. I recommend using the second one.
+
+Hint 4:
+If you need to update the value assigned to a particular item in your inventory you'll use the replace method like above.
+
+Hint 5:
+You'll need another for-each loop for the backpack if you have one.
+
+Hint 6:
+You can use concatenation to make a nice looking output to display the size of your HashMaps.
+
+Hint 7:
+Again a method that's not mentioned in the reading, but the "inventory.re" will show you a method you can use to remove
+this method from your inventory. Don't forget to update your gold count.
+
+Hint 8:
+This is a great place for an If statement to handle searching your inventory (and backpack if you have one) to see if it
+contains the "Small Silver Key" and will happen if you don't meet her requirements.
