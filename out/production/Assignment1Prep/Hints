@@ -1,0 +1,17 @@
+Hint 1:
+The ArrayList hold HashMap's, so your type for each address in the Array list will need to match that type.
+
+Hint 2:
+You'll need a for-each loop to do this. Be sure to look at 3.6 to see an example of the syntax for this.
+
+Hint 3:
+You'll need to wrap the code that you've already written with a "public static void" method that is capable of taking in
+an ArrayList of HashMap's to print out.
+
+Hint 4:
+Make sure you import the Scanner after you instantiate it. Check out 2.2.6 if you can't remember how to create a Scanner.
+
+Hint 5:
+Look back at your print method to see how to loop across those HashMaps. And see what methods are available to you by
+using the variableName.  "game".
+
