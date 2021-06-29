@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Assignment1PrepMain {
@@ -14,9 +15,10 @@ public class Assignment1PrepMain {
         HashMap<String, String> address1 = new HashMap<>();
         address1.put("Name", "Dr. John Watson");
         address1.put("Address", "221B Baker St., London, England");
+        address1.put("Phone Number", "Don't call me");
 
         HashMap<String, String> address2 = new HashMap<>();
-        address2.put("Name", "Emmett Brown");
+        address2.put("Name", "Dr. Emmett Brown");
         address2.put("Address", "1640 Riverside Drive, Hill Valley, CA");
 
         HashMap<String, String> address3 = new HashMap<>();
@@ -42,6 +44,7 @@ public class Assignment1PrepMain {
         HashMap<String, String> address8 = new HashMap<>();
         address8.put("Name", "The Dursley Family");
         address8.put("Address", "4 Privet Drive, Little Whinging, Surrey, UK");
+        address8.put("Mailbox", "No post on Sundays!");
 
         /* HashMaps are great! They allow us to hold the information we need for each address..... but we have lots of
            addresses. It would be great to put all of those addresses together like in an address book so it's all in
@@ -79,8 +82,6 @@ public class Assignment1PrepMain {
             Because HashMap has no guarantees for the order in the map. If we wanted to maintain the order we added things in
             we could use a LinkedHashMap -  but don't worry, we don't learn about those.
          */
-
-    // Write your code here
 
         /* 3. Lets turn this printing ability into a method so we can call it later - This will need to be outside of out main method.
     Hint 3:

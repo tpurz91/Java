@@ -12,6 +12,9 @@ Hint 4:
 Make sure you import the Scanner after you instantiate it. Check out 2.2.6 if you can't remember how to create a Scanner.
 
 Hint 5:
-Look back at your print method to see how to loop across those HashMaps. And see what methods are available to you by
-using the variableName.  "game".
+Look back at your print method to see how to loop across those HashMaps.
+
+Hint 6:
+You can create a String variable to hold the values that you .get from the "Name" property and see what methods are
+available to you by using the variableName.  "game".
 
