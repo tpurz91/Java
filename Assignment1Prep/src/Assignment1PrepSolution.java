@@ -74,6 +74,7 @@ public class Assignment1PrepSolution {
                 neededAddress.add(address);
             }
         }
+        input.close();
         // 6.
         printAddresses(neededAddress);
 
