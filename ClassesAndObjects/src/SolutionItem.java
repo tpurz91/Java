@@ -11,6 +11,10 @@ public class SolutionItem {
         this.price = price;
     }
 
+    public String getItem (){
+        return this.getName() + "\n Description: " + this.getDescription() + "\n I have " + this.getQuantity() + ", they cost " + this.getPrice() + " gold.\n";
+    }
+
     public String getName() {
         return name;
     }

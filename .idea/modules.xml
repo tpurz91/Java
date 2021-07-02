@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPracticeExercises.iml" filepath="$PROJECT_DIR$/JavaPracticeExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTesting/UnitTesting.iml" filepath="$PROJECT_DIR$/UnitTesting/UnitTesting.iml" />
     </modules>
   </component>
 </project>
