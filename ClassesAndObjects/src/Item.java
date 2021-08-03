@@ -12,5 +12,36 @@ public class Item {
     Then you'll need to make some objects inside your program class using this Item class.
 
 */
+    private String name;
+    private String description;
+    private Integer quantity;
+    private Integer price;
 
+    public Item(String name, String description, Integer quantity, Integer price) {
+        this.name = name;
+        this.description = description;
+        this.quantity = quantity;
+        this.price = price;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public Integer getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(Integer quantity) {
+        this.quantity = quantity;
+    }
+
+    public Integer getPrice() {
+        return price;
+    }
 }
+

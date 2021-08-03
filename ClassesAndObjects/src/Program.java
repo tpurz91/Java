@@ -16,6 +16,24 @@ public class Program {
 
         We have items.We have an inventory.We have a shop...now we just have to make the shop run.
     */
+
+
+        Item dagger = new Item("Dagger", "For close range combat", 15, 75);
+        Item sword = new Item("Sting", "Glows blue when enemies near", 1, 100);
+        Item theRing = new Item("The one true Ring", "One ring to rule", 1, 0);
+        Item healingPotion = new Item("Healing Potion", "Heals Wounds", 20, 10);
+
+        Item[] inventory = {dagger, sword, theRing, healingPotion};
+
+        Shop prancingPony = new Shop("Prancing Pony", inventory);
+        prancingPony.RunShop();
+
+
     }
 
+
 }
+
+
+
+
